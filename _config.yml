@@ -1,0 +1,14 @@
+layout_spectrum: 0.9659498
+typography_spectrum: 0.2670251
+color:
+  saturation: 0.7855859
+  lightness: 0.1272401
+  brandStrength: 0.9231919
+  brandColors:
+    - '#F6F6F6'
+    - '#000000'
+    - '#151515'
+    - '#8C8C8C'
+    - '#A2A2A2'
+  rhythmicContrast: 0.5562897
+name: LutzVormelker
